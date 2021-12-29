@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-25T21:58:13 EET" name="Suite" finished-at="2021-12-25T22:02:24 EET" duration-ms="250646">
+    <groups>
+    </groups>
+    <test started-at="2021-12-25T21:58:13 EET" name="Test" finished-at="2021-12-25T21:58:53 EET" duration-ms="39521">
+      <class name="TestCases.Sign_Up_UTasks_Invalid_Password_Setup">
+        <test-method signature="navigate_to_Sign_Up_Invalid_Password_Edge()[pri:0, instance:TestCases.Sign_Up_UTasks_Invalid_Password_Setup@9353778]" started-at="2021-12-25T21:58:13 EET" name="navigate_to_Sign_Up_Invalid_Password_Edge" finished-at="2021-12-25T21:58:28 EET" duration-ms="14616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_Sign_Up_Invalid_Password_Edge -->
+        <test-method signature="navigate_to_Sign_Up_Invalid_Password_chrome()[pri:0, instance:TestCases.Sign_Up_UTasks_Invalid_Password_Setup@9353778]" started-at="2021-12-25T21:58:28 EET" name="navigate_to_Sign_Up_Invalid_Password_chrome" finished-at="2021-12-25T21:58:34 EET" duration-ms="6155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_Sign_Up_Invalid_Password_chrome -->
+        <test-method signature="navigate_to_Sign_Up_Invalid_Password_firefox()[pri:0, instance:TestCases.Sign_Up_UTasks_Invalid_Password_Setup@9353778]" started-at="2021-12-25T21:58:34 EET" name="navigate_to_Sign_Up_Invalid_Password_firefox" finished-at="2021-12-25T21:58:53 EET" duration-ms="18689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_Sign_Up_Invalid_Password_firefox -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.Sign_Up_UTasks_Invalid_Password_Setup@9353778]" started-at="2021-12-25T21:58:53 EET" name="close" finished-at="2021-12-25T21:58:53 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.Sign_Up_UTasks_Invalid_Password_Setup -->
+    </test> <!-- Test -->
+    <test started-at="2021-12-25T21:58:53 EET" name="Test2" finished-at="2021-12-25T21:59:36 EET" duration-ms="43124">
+      <class name="TestCases.Sign_Up_UTasks_Invalid_Account_Setup">
+        <test-method signature="navigate_to_Sign_Up_Invalid_Account_Edge()[pri:0, instance:TestCases.Sign_Up_UTasks_Invalid_Account_Setup@f5ac9e4]" started-at="2021-12-25T21:58:53 EET" name="navigate_to_Sign_Up_Invalid_Account_Edge" finished-at="2021-12-25T21:59:09 EET" duration-ms="15724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_Sign_Up_Invalid_Account_Edge -->
+        <test-method signature="navigate_to_Sign_Up_Invalid_Account_chrome()[pri:0, instance:TestCases.Sign_Up_UTasks_Invalid_Account_Setup@f5ac9e4]" started-at="2021-12-25T21:59:09 EET" name="navigate_to_Sign_Up_Invalid_Account_chrome" finished-at="2021-12-25T21:59:19 EET" duration-ms="10195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_Sign_Up_Invalid_Account_chrome -->
+        <test-method signature="navigate_to_Sign_Up_Invalid_Account_firefox()[pri:0, instance:TestCases.Sign_Up_UTasks_Invalid_Account_Setup@f5ac9e4]" started-at="2021-12-25T21:59:19 EET" name="navigate_to_Sign_Up_Invalid_Account_firefox" finished-at="2021-12-25T21:59:36 EET" duration-ms="17199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_Sign_Up_Invalid_Account_firefox -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.Sign_Up_UTasks_Invalid_Account_Setup@f5ac9e4]" started-at="2021-12-25T21:59:36 EET" name="close" finished-at="2021-12-25T21:59:36 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.Sign_Up_UTasks_Invalid_Account_Setup -->
+    </test> <!-- Test2 -->
+    <test started-at="2021-12-25T21:59:36 EET" name="Test3" finished-at="2021-12-25T22:00:12 EET" duration-ms="36525">
+      <class name="TestCases.Sign_Up_with_Valid_Email_and_Password_Setup">
+        <test-method signature="navigate_to_Sign_Up_with_Valid_Email_and_PasswordF_firefox()[pri:0, instance:TestCases.Sign_Up_with_Valid_Email_and_Password_Setup@62150f9e]" started-at="2021-12-25T21:59:36 EET" name="navigate_to_Sign_Up_with_Valid_Email_and_PasswordF_firefox" finished-at="2021-12-25T21:59:48 EET" duration-ms="12548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_Sign_Up_with_Valid_Email_and_PasswordF_firefox -->
+        <test-method signature="navigate_to_Sign_Up_with_Valid_Email_and_Password_Edge()[pri:0, instance:TestCases.Sign_Up_with_Valid_Email_and_Password_Setup@62150f9e]" started-at="2021-12-25T21:59:48 EET" name="navigate_to_Sign_Up_with_Valid_Email_and_Password_Edge" finished-at="2021-12-25T22:00:06 EET" duration-ms="17531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_Sign_Up_with_Valid_Email_and_Password_Edge -->
+        <test-method signature="navigate_to_Sign_Up_with_Valid_Email_and_Password_chrome()[pri:0, instance:TestCases.Sign_Up_with_Valid_Email_and_Password_Setup@62150f9e]" started-at="2021-12-25T22:00:06 EET" name="navigate_to_Sign_Up_with_Valid_Email_and_Password_chrome" finished-at="2021-12-25T22:00:12 EET" duration-ms="6445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_Sign_Up_with_Valid_Email_and_Password_chrome -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.Sign_Up_with_Valid_Email_and_Password_Setup@62150f9e]" started-at="2021-12-25T22:00:12 EET" name="close" finished-at="2021-12-25T22:00:12 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.Sign_Up_with_Valid_Email_and_Password_Setup -->
+    </test> <!-- Test3 -->
+    <test started-at="2021-12-25T22:00:12 EET" name="Test4" finished-at="2021-12-25T22:01:16 EET" duration-ms="63050">
+      <class name="TestCases.Add_New_Task_to_a_newly_created_project_Setup">
+        <test-method signature="Add_New_Task_to_a_newly_created_project_Edge()[pri:0, instance:TestCases.Add_New_Task_to_a_newly_created_project_Setup@6e20b53a]" started-at="2021-12-25T22:00:12 EET" name="Add_New_Task_to_a_newly_created_project_Edge" finished-at="2021-12-25T22:00:31 EET" duration-ms="18884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_New_Task_to_a_newly_created_project_Edge -->
+        <test-method signature="Add_New_Task_to_a_newly_created_project_chrome()[pri:0, instance:TestCases.Add_New_Task_to_a_newly_created_project_Setup@6e20b53a]" started-at="2021-12-25T22:00:31 EET" name="Add_New_Task_to_a_newly_created_project_chrome" finished-at="2021-12-25T22:00:47 EET" duration-ms="16108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_New_Task_to_a_newly_created_project_chrome -->
+        <test-method signature="Add_New_Task_to_a_newly_created_project_firefox()[pri:0, instance:TestCases.Add_New_Task_to_a_newly_created_project_Setup@6e20b53a]" started-at="2021-12-25T22:00:47 EET" name="Add_New_Task_to_a_newly_created_project_firefox" finished-at="2021-12-25T22:01:16 EET" duration-ms="28054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_New_Task_to_a_newly_created_project_firefox -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.Add_New_Task_to_a_newly_created_project_Setup@6e20b53a]" started-at="2021-12-25T22:01:16 EET" name="close" finished-at="2021-12-25T22:01:16 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.Add_New_Task_to_a_newly_created_project_Setup -->
+    </test> <!-- Test4 -->
+    <test started-at="2021-12-25T22:01:16 EET" name="Test5" finished-at="2021-12-25T22:02:24 EET" duration-ms="68389">
+      <class name="TestCases.Add_New_Task_to_already_existing_project_Setup">
+        <test-method signature="Add_New_Task_to_already_existing_project_Edge()[pri:0, instance:TestCases.Add_New_Task_to_already_existing_project_Setup@661972b0]" started-at="2021-12-25T22:01:16 EET" name="Add_New_Task_to_already_existing_project_Edge" finished-at="2021-12-25T22:01:46 EET" duration-ms="30758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_New_Task_to_already_existing_project_Edge -->
+        <test-method signature="Add_New_Task_to_already_existing_project_chrome()[pri:0, instance:TestCases.Add_New_Task_to_already_existing_project_Setup@661972b0]" started-at="2021-12-25T22:01:46 EET" name="Add_New_Task_to_already_existing_project_chrome" finished-at="2021-12-25T22:02:01 EET" duration-ms="15065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_New_Task_to_already_existing_project_chrome -->
+        <test-method signature="Add_New_Task_to_already_existing_project_firefox()[pri:0, instance:TestCases.Add_New_Task_to_already_existing_project_Setup@661972b0]" started-at="2021-12-25T22:02:01 EET" name="Add_New_Task_to_already_existing_project_firefox" finished-at="2021-12-25T22:02:24 EET" duration-ms="22560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_New_Task_to_already_existing_project_firefox -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.Add_New_Task_to_already_existing_project_Setup@661972b0]" started-at="2021-12-25T22:02:24 EET" name="close" finished-at="2021-12-25T22:02:24 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.Add_New_Task_to_already_existing_project_Setup -->
+    </test> <!-- Test5 -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test4(failed)">
+    <classes>
+      <class name="TestCases.Add_New_Task_to_a_newly_created_project_Setup">
+        <methods>
+          <include name="navigate_to_Sign_Up_firefox"/>
+          <include name="navigate_to_Sign_Up_chrome"/>
+          <include name="navigate_to_Sign_Up_Edge"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- TestCases.Add_New_Task_to_a_newly_created_project_Setup -->
+    </classes>
+  </test> <!-- Test4(failed) -->
+  <test thread-count="5" name="Test5(failed)">
+    <classes>
+      <class name="TestCases.Add_New_Task_to_already_existing_project_Setup">
+        <methods>
+          <include name="navigate_to_Sign_Up_Edge"/>
+          <include name="close"/>
+          <include name="navigate_to_Sign_Up_chrome"/>
+          <include name="navigate_to_Sign_Up_firefox"/>
+        </methods>
+      </class> <!-- TestCases.Add_New_Task_to_already_existing_project_Setup -->
+    </classes>
+  </test> <!-- Test5(failed) -->
+</suite> <!-- Failed suite [Suite] -->

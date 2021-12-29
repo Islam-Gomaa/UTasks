@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="TestCases.Sign_Up_UTasks_Invalid_Password_Setup" />
+		</classes>
+	</test> <!-- Test -->
+	<test thread-count="5" name="Test2">
+		<classes>
+			<class name="TestCases.Sign_Up_UTasks_Invalid_Account_Setup" />
+		</classes>
+	</test> <!-- Test -->
+	<test thread-count="5" name="Test3">
+		<classes>
+			<class
+				name="TestCases.Sign_Up_with_Valid_Email_and_Password_Setup" />
+		</classes>
+	</test> <!-- Test -->
+	<test thread-count="5" name="Test4">
+		<classes>
+			<class
+				name="TestCases.Add_New_Task_to_a_newly_created_project_Setup" />
+		</classes>
+	</test> <!-- Test -->
+	<test thread-count="5" name="Test5">
+		<classes>
+			<class
+				name="TestCases.Add_New_Task_to_already_existing_project_Setup" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
